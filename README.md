@@ -16,7 +16,7 @@ Delta-neutral trading aims to construct a portfolio where the delta (sensitivity
 >Visualization Tools: Plotting utilities for analyzing model predictions, trading signals, and strategy performance.
 
 #Clone the Repository:
-git clone https://github.com/Dakshmanohar30/Delta-Neutral-Trading-Arima-and-Lstm.git
+git clone https://github.com/Dakshmanohar30/Delta-Neutral-Trading-with-Arima-and-Lstm.git
 cd delta-neutral-trading-arima-lstm
 # Install Dependencies:
 pip install -r requirements.txt
